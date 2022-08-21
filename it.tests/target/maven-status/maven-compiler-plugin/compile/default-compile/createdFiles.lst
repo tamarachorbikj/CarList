@@ -1,0 +1,4 @@
+com\carproject\it\tests\PublishPageValidationIT.class
+com\carproject\it\tests\CreatePageIT.class
+com\carproject\it\tests\HtmlUnitClient.class
+com\carproject\it\tests\GetPageIT.class

@@ -1,0 +1,16 @@
+<div style="background-color:#ffe137; color:black" data-sly-use.model="com.carproject.core.models.CarFilterModel">
+    <h2>Cars</h2>
+    <div style="background-color:#fff1a1; color:black" data-sly-list="${model.filteredCars}">
+        <div class="car-card">
+            <div style= "border-style:groove">
+                <h3>${item.name}</h3>
+                <p class="brand">${item.brand}</p>
+            </div>
+            <div class="features">
+                <p class="year">${item.year}</p>
+                <p class="description">${item.description}</p>
+            </div>
+            <input style="background-color:#ffe137; color:black" type="button" value="Cars"/>
+        </div>
+    </div>
+</div>
