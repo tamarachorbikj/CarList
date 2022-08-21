@@ -1,0 +1,13 @@
+com\carproject\core\models\CarModel.class
+com\carproject\core\filters\package-info.class
+com\carproject\core\listeners\package-info.class
+com\carproject\core\models\package-info.class
+com\carproject\core\schedulers\package-info.class
+com\carproject\core\servlets\package-info.class
+com\carproject\core\schedulers\SimpleScheduledTask.class
+com\carproject\core\models\CarFilterModel.class
+com\carproject\core\servlets\SimpleServlet.class
+com\carproject\core\filters\LoggingFilter.class
+com\carproject\core\schedulers\SimpleScheduledTask$Config.class
+com\carproject\core\listeners\SimpleResourceListener.class
+com\carproject\core\models\HelloWorldModel.class

@@ -1,0 +1,7 @@
+com\carproject\core\schedulers\SimpleScheduledTaskTest.class
+com\carproject\core\testcontext\AppAemContext$1.class
+com\carproject\core\servlets\SimpleServletTest.class
+com\carproject\core\models\HelloWorldModelTest.class
+com\carproject\core\testcontext\AppAemContext.class
+com\carproject\core\filters\LoggingFilterTest.class
+com\carproject\core\listeners\SimpleResourceListenerTest.class
